@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
 <h3 align="center">A passionate MERN Stack | Web 3.0 Metaverse Developer from Pakistan</h3>
 
-<img width="400px" align="right" alt="metaverse" src="https://thedalesreport.com/wp-content/uploads/2021/12/shutterstock_2070783284-scaled-e1640620122825-750x430.jpg">
+<img width="400px" align="middle" alt="metaverse" src="https://thedalesreport.com/wp-content/uploads/2021/12/shutterstock_2070783284-scaled-e1640620122825-750x430.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahansarigit&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahansarigit" /> </p>
 
