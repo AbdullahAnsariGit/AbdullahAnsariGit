@@ -1,3 +1,4 @@
+![logo](https://github.com/AbdullahAnsariGit/AbdullahAnsariGit/blob/main/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
 <h3 align="center">A passionate MERN Stack | Web 3.0 Metaverse Developer from Pakistan</h3>
 
